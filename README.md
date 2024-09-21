@@ -31,8 +31,8 @@ The **Electricity Billing System** simplifies the process of managing customer i
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/electricity-billing-system.git
-   cd electricity-billing-system
+   git clone https://github.com/lisharodrigues/Electricity-Billing-System.git
+   cd Electricity-Billing-System
    ```
 
 2. **Install Java and MySQL**:
