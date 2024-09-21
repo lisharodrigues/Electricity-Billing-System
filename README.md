@@ -9,7 +9,6 @@ This **Electricity Billing System** is a desktop application developed in **Java
 - [Project Setup](#project-setup)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Overview
 The **Electricity Billing System** simplifies the process of managing customer information, meter readings, and bill payments. It includes automatic unit calculations and charge computation based on electricity consumption, providing customers with accurate billing details.
